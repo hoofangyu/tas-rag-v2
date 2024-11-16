@@ -1,0 +1,9 @@
+# Ignore Python cache directories
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# config.py
+**/config.py
